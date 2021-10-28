@@ -2,11 +2,11 @@
 Camarillo project
 
 
-Juno is a NASA space probe orbiting the planet Jupiter. It was built by Lockheed Martin and is operated by NASA's Jet Propulsion Laboratory. The spacecraft was launched from Cape Canaveral Air Force Station on 5 August 2011 UTC, as part of the New Frontiers program.[6] Juno entered a polar orbit of Jupiter on 5 July 2016 UTC,[4][7] to begin a scientific investigation of the planet.[8] After completing its mission, Juno will be intentionally deorbited into Jupiter's atmosphere.[8]
+Juno is a NASA space probe orbiting the planet Jupiter. It was built by Lockheed Martin and is operated by NASA's Jet Propulsion Laboratory. The spacecraft was launched from Cape Canaveral Air Force Station on 5 August 2011 UTC, as part of the New Frontiers program.[6] Juno entered a polar orbit of Jupiter on 5 July 2016 UTC,[4][7] to begin a scientific investigation of the planet.[8] After completing its mission, Juno will be intentionally deorbited into Jupiter's atmosphere.
 
-Juno's mission is to measure Jupiter's composition, gravitational field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 620 km/h (390 mph).[9]
+Juno's mission is to measure Jupiter's composition, gravitational field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 620 km/h (390 mph).
 
-Juno is the second spacecraft to orbit Jupiter, after the nuclear powered Galileo orbiter, which orbited from 1995 to 2003.[8] Unlike all earlier spacecraft sent to the outer planets,[8] Juno is powered by solar panels, commonly used by satellites orbiting Earth and working in the inner Solar System, whereas radioisotope thermoelectric generators are commonly used for missions to the outer Solar System and beyond. For Juno, however, the three largest solar panel wings ever deployed on a planetary probe play an integral role in stabilizing the spacecraft as well as generating power.[10]
+Juno is the second spacecraft to orbit Jupiter, after the nuclear powered Galileo orbiter, which orbited from 1995 to 2003.[8] Unlike all earlier spacecraft sent to the outer planets,[8] Juno is powered by solar panels, commonly used by satellites orbiting Earth and working in the inner Solar System, whereas radioisotope thermoelectric generators are commonly used for missions to the outer Solar System and beyond. For Juno, however, the three largest solar panel wings ever deployed on a planetary probe play an integral role in stabilizing the spacecraft as well as generating power.
 
 ---- da qui in poi è la modificona Prontone 01
 
@@ -33,3 +33,5 @@ Juno's trajectory used a gravity assist speed boost from Earth, accomplished by 
 During the science mission, infrared and microwave instruments will measure the thermal radiation emanating from deep within Jupiter's atmosphere. These observations will complement previous studies of its composition by assessing the abundance and distribution of water, and therefore oxygen. This data will provide insight into Jupiter's origins. Juno will also investigate the convection that drives natural circulation patterns in Jupiter's atmosphere. Other instruments aboard Juno will gather data about its gravitational field and polar magnetosphere. The Juno mission was planned to conclude in February 2018 after completing 37 orbits of Jupiter. The probe was then intended to be deorbited and burnt up in Jupiter's outer atmosphere[4][5] to avoid any possibility of impact and biological contamination of one of its moons.[26]
 
 --------------
+
+Ho tolto 3 note da lrpimo pezzo nella seconda push
